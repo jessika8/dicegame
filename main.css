@@ -1,0 +1,88 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    background: url(/img/black_and_white_dice_000.jpg5e413548-77a8-4d0f-97d6-3022dab43c83Zoom.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 60vh;
+    background-attachment: fixed;
+    background-color: black;
+    color: white;
+    margin-bottom: 10vh
+}
+
+.mid-section{
+    position: absolute;
+    top: 23rem;
+    height: 3vh;
+
+}
+.diceImage {
+    display: block;
+    /* margin: auto; */
+    width: 13vh;
+    height: 13vh;
+    margin-bottom: 10vh;
+}
+.welcome {
+    text-align: center;
+    font-size: 10vh;
+    margin-top: 3vh;
+    margin-bottom: 0vh
+}
+.sleeves {
+    text-align: center;
+    font-size: 4vh;
+}
+.flex {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0vh;
+    margin: 0vh;
+    
+    /* flex-direction: column; */
+}
+.flexOne {
+    
+    text-align: center;
+    margin-top: 17vh
+}
+
+.flexTwo {
+    text-align: center;
+    margin-top: 17vh;
+    margin-left: 10vh;
+
+}
+
+.btn{
+    position: absolute;
+  
+    left: 46%;
+    top: 40rem;
+}
+/* .playerOneInfo {
+    
+}
+.playerTwoInfo{
+    align-self: flex-end;
+    padding-right: 30vh;
+    padding-left: 35vh;
+}
+.playerOneScore {
+    padding-left: 0vh;
+}
+.playerTwoScore {
+
+} */
+.newGameButton, .rollButton {
+    display: block;
+    margin: auto;
+    padding: 1vh 1.5vh;
+    font-size: 2vh;
+    background-color: black;
+    border-color: white;
+    color: white;
+
+}
