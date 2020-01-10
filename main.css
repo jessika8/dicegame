@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 body {
-    background: url(/img/black_and_white_dice_000.jpg5e413548-77a8-4d0f-97d6-3022dab43c83Zoom.jpg);
+    background: url('./img/background.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: 60vh;
