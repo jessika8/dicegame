@@ -2,6 +2,8 @@
 
 The dice game is a JavaScript DOM project that allows fun-loving people to play a game that takes turns. It is my first project where I combine my knowledge of HTML, CSS and JavaScript.
 
+Hosted on [GitHub](https://jessika8.github.io/dicegame/)
+
 ## How to start the game?
 
 - Pull the game
